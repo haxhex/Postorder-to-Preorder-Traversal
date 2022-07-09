@@ -1,5 +1,9 @@
 # Postorder to Preorder Traversal
-This Program receives the Post-Order Traversal of Said BST one element at a time and generates the Pre-Order Traversal of the given BST.
+
+This Program receives the Post-Order Traversal of Said BST one element at a time and generates the Pre-Order Traversal of the given BST - 
+
+Which was the first project for Data Structrure
+
 
 First Sample:
 
